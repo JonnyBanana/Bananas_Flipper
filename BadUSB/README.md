@@ -8,10 +8,10 @@
 
 </BR>
 
-Here you can find my BadUSB scripts for Flipper Zero. </BR>
+Here you can find my BadUSB scripts for Flipper Zero, some keybaord layout, and some cheatsheets. </BR>
 Some are scripts for Rubber Ducky that also fit the "Flipper Zero" without modifications, </BR>
 others have been adapted, and still others have been written specifically for it. </BR>
-In each folder you will find the relevant README file with links and explanations. </BR>
+
 
 </BR>
 
