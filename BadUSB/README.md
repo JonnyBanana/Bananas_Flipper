@@ -17,6 +17,8 @@ In each folder you will find the relevant README file with links and explanation
 
 <h2>Scripts</h2>
 
+</BR>
+
 | Payload        | Description   |
 | ------------- | ------------- |
 | <a href="https://github.com/JonnyBanana/BQOD_tHE_bLUE_qUACK_oF_dEATH">BQOD</a>  | A script which uses the "Invoke-bsod" command to trigger a BSOD  |
@@ -24,4 +26,6 @@ In each folder you will find the relevant README file with links and explanation
 | <a href="https://github.com/JonnyBanana/Rubber-Ducky_HTML_Fork-Bomb">HTML FORK BOMB</a>  | An HTML Fork BOMB  |
 | <a href="https://github.com/JonnyBanana/-MFT-Duck-Crasher">$MFT Duck Crasher</a>  | Simple Script which Exploits Windows $MFT Vulnerability  | 
 | <a href="https://github.com/JonnyBanana/QuickUACk">QuickUACk</a>  | Some No UAC techniques  |
+
+</BR>
 
