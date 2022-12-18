@@ -16,3 +16,23 @@ Here you can find my BadUSB scripts for Flipper Zero.
 <h2>Payload List</h2>
 
 </BR>
+
+<h3>BQOD</h3>
+
+</BR>
+
+<h3>DUCKY REAPER</h3>
+
+</BR>
+
+<h3>HTML FORK BOMB</h3>
+
+</BR>
+
+<h3>$MFT Duck Crasher</h3>
+
+</BR>
+
+<h3>QuickUACk</h3>
+
+</BR>
