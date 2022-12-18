@@ -7,3 +7,9 @@
 </p>
 
 </BR>
+
+Here you can find all my remote control captures for different devices such as:</BR>
+TVs, Decoders, Air Conditioners, Led Strips, Tv Recorders, etc.
+
+</BR>
+
