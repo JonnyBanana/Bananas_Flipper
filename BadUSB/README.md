@@ -1,4 +1,4 @@
-<h1>💀💀💀Flipper Zero BadUSB💀💀💀</h1>
+<h1>💀💀💀 Flipper Zero BadUSB 💀💀💀</h1>
 
 </BR>
 
