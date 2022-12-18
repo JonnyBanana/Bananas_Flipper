@@ -1,4 +1,4 @@
-<h1>Chinese Led Strip</h1>
+<h1>Led Strip</h1>
 
 </BR>
 
@@ -8,13 +8,8 @@
 
 </BR>
 
-Cheap Led, bought in Chinese store, probably the remote control is also compatible with other Chinese models, </BR>
-if the remote you have under your hand is the same or similar you can try, they often use the same remotes for different models.
+Here you will find my captures of led strips, complete with photos, description, and with all the buttons stored correctly
 
 </BR>
 
-<p>
-  <img src="https://raw.githubusercontent.com/JonnyBanana/Bananas_Flipper/main/infrared/IMG/ledstrip2.jpg" width="350">
-</p>
 
-</BR>
