@@ -1,4 +1,4 @@
-<h1>Led Strip</h1>
+<h1>Led Strips</h1>
 
 </BR>
 
