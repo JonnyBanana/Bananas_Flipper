@@ -8,7 +8,10 @@
 
 </BR>
 
-Cheap Led, bought in Chinese store, probably the remote control is also compatible with other Chinese models, if the remote you have under your hand is the same or similar you can try, they often use the same remotes for different models.
+Cheap Led, bought in Chinese store, probably the remote control is also compatible with other Chinese models, </BR>
+if the remote you have under your hand is the same or similar you can try, they often use the same remotes for different models.
+
+</BR>
 
 <p>
   <img src="https://raw.githubusercontent.com/JonnyBanana/Bananas_Flipper/main/infrared/IMG/ledstrip2.jpg" width="350">
