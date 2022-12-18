@@ -1,6 +1,8 @@
 Filetype: IR signals file
 Version: 1
 # 
+# More info: https://github.com/JonnyBanana/Bananas_Flipper/tree/main/infrared/Android_Box/TIMBOX_UZW0TIM2401
+#
 name: POWER
 type: parsed
 protocol: NECext
@@ -13,25 +15,25 @@ protocol: NECext
 address: 16 20 00 00
 command: 32 CD 00 00
 # 
-name: VOL_P
+name: VOL+
 type: parsed
 protocol: NECext
 address: 16 20 00 00
 command: 23 DC 00 00
 # 
-name: VOL_M
+name: VOL-
 type: parsed
 protocol: NECext
 address: 16 20 00 00
 command: 24 DB 00 00
 # 
-name: CH_P
+name: CH+
 type: parsed
 protocol: NECext
 address: 16 20 00 00
 command: 33 CC 00 00
 # 
-name: CH_M
+name: CH-
 type: parsed
 protocol: NECext
 address: 16 20 00 00
