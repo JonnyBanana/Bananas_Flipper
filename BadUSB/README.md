@@ -17,4 +17,7 @@ In each folder you will find the relevant README file with links and explanation
 
 <h2>Scripts</h2>
 
-| Script                                           | Description                                                                                                          | :------------------------------------------------| :-------------------------------------------------------------------------------------------------------------------       
+| Script        | Description   |
+| ------------- | ------------- |
+| Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  | 
