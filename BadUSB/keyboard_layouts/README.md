@@ -1,5 +1,11 @@
 <h1>Keyboard Layouts</h1>
 
+</br>
+
+Collection of keyboard layouts I collected in the field.</br></br>
+All layouts were extrapolated with this tool:</br>
+https://github.com/dummy-decoy/flipperzero_badusb_kl
+
 </BR>
 
      ---------------------------------------------------------------------- 
