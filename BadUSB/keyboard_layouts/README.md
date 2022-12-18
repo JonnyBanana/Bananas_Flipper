@@ -26,5 +26,8 @@ Here you can find a tool that converts scripts with the desired layout: </BR>
 http://helppox.com/badusbconvert.html
 
 </BR>
+Instead, here are a couple of threads on the subject with some advice:</BR>
+https://www.reddit.com/r/flipperzero/comments/vqlndh/any_way_to_modify_the_keyboard_layout_for_bad_usb/</BR>
+https://forum.flipperzero.one/t/language-keyboard/3820/15
 
-
+</BR>
