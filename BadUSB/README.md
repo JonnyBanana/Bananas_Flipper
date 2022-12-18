@@ -19,9 +19,9 @@ In each folder you will find the relevant README file with links and explanation
 
 | Script        | Description   |
 | ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  | 
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  | 
-| Content Cell  | Content Cell  |
+| BQOD  | Content Cell  |
+| DUCKY REAPER  | Content Cell  | 
+| HTML FORK BOMB  | Content Cell  |
+| $MFT Duck Crasher  | Content Cell  | 
+| QuickUACk  | Content Cell  |
 
