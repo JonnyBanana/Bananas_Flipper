@@ -15,11 +15,11 @@ In each folder you will find the relevant README file with links and explanation
 
 </BR>
 
-<h2>Scripts</h2>
+<h2>Payload s</h2>
 
 </BR>
 
-| Payload        | Description   |
+| Script        | Description   |
 | ------------- | ------------- |
 | <a href="https://github.com/JonnyBanana/BQOD_tHE_bLUE_qUACK_oF_dEATH">BQOD</a>  | A script which uses the "Invoke-bsod" command to trigger a BSOD  |
 | <a href="https://github.com/JonnyBanana/DUCKY_REAPER">DUCKY REAPER</a>  | A script that exploit the css webkit filter attackto crash a browser  | 
