@@ -17,11 +17,11 @@ In each folder you will find the relevant README file with links and explanation
 
 <h2>Scripts</h2>
 
-| Script        | Description   |
+| Payload        | Description   |
 | ------------- | ------------- |
-| BQOD  | Content Cell  |
-| DUCKY REAPER  | Content Cell  | 
-| HTML FORK BOMB  | Content Cell  |
-| $MFT Duck Crasher  | Content Cell  | 
-| QuickUACk  | Content Cell  |
+| BQOD  | A script which uses the "Invoke-bsod" command to trigger a BSOD  |
+| DUCKY REAPER  | A script that exploit the css webkit filter attackto crash a browser  | 
+| HTML FORK BOMB  | An HTML Fork BOMB  |
+| $MFT Duck Crasher  | Simple Script which Exploits Windows $MFT Vulnerability  | 
+| QuickUACk  | Some No UAC techniques  |
 
