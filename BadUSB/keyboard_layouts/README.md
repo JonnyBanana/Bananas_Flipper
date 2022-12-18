@@ -21,3 +21,10 @@ https://github.com/dummy-decoy/flipperzero_badusb_kl
      ---------------------------------------------------------------------- 
      
 </BR>
+
+Here you can find a tool that converts scripts with the desired layout: </BR>
+http://helppox.com/badusbconvert.html
+
+</BR>
+
+
