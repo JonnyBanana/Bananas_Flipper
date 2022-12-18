@@ -19,9 +19,9 @@ In each folder you will find the relevant README file with links and explanation
 
 | Payload        | Description   |
 | ------------- | ------------- |
-| BQOD  | A script which uses the "Invoke-bsod" command to trigger a BSOD  |
-| DUCKY REAPER  | A script that exploit the css webkit filter attackto crash a browser  | 
-| HTML FORK BOMB  | An HTML Fork BOMB  |
-| $MFT Duck Crasher  | Simple Script which Exploits Windows $MFT Vulnerability  | 
-| QuickUACk  | Some No UAC techniques  |
+| <a href="">BQOD</a>  | A script which uses the "Invoke-bsod" command to trigger a BSOD  |
+| <a href="">DUCKY REAPER</a>  | A script that exploit the css webkit filter attackto crash a browser  | 
+| <a href="">HTML FORK BOMB</a>  | An HTML Fork BOMB  |
+| <a href="https://github.com/JonnyBanana/-MFT-Duck-Crasher">$MFT Duck Crasher</a>  | Simple Script which Exploits Windows $MFT Vulnerability  | 
+| <a href="">QuickUACk</a>  | Some No UAC techniques  |
 
