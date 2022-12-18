@@ -1,6 +1,8 @@
 Filetype: IR signals file
 Version: 1
 # 
+#MoreInfo:https://github.com/JonnyBanana/Bananas_Flipper/tree/main/infrared/Led_Strips/CHINESE_LED_STRIP_3M-5V-1A 
+#
 name: ON
 type: parsed
 protocol: NECext
@@ -13,13 +15,13 @@ protocol: NECext
 address: 00 EF 00 00
 command: 02 FD 00 00
 # 
-name: LIGHT_UP
+name: LIGHT+
 type: parsed
 protocol: NECext
 address: 00 EF 00 00
 command: 00 FF 00 00
 # 
-name: LIGHT_DOWN
+name: LIGHT-
 type: parsed
 protocol: NECext
 address: 00 EF 00 00
