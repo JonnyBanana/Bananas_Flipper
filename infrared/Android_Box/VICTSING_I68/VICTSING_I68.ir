@@ -1,7 +1,7 @@
 Filetype: IR signals file
 Version: 1
 # 
-#more info: https://github.com/JonnyBanana/Bananas_Flipper/tree/main/infrared/Android_Box/VICTSING_I68
+# More info: https://github.com/JonnyBanana/Bananas_Flipper/tree/main/infrared/Android_Box/VICTSING_I68
 #
 name: POWER
 type: parsed
