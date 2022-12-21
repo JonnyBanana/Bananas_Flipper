@@ -1,0 +1,66 @@
+Filetype: Flipper NFC device
+Version: 2
+# Nfc device type can be UID, Mifare Ultralight, Mifare Classic
+Device type: NTAG213
+# UID, ATQA and SAK are common for all formats
+UID: 04 6E 5A 8A AA 4A 81
+ATQA: 44 00
+SAK: 00
+# Mifare Ultralight specific data
+Data format version: 1
+Signature: 2B 40 D1 7E 61 2C BB 59 49 02 31 0D C6 2E 6A 05 D7 9F FA C5 9E 63 C6 8A E0 AF 37 88 F6 31 7C AD
+Mifare version: 00 04 04 02 01 00 0F 03
+Counter 0: 0
+Tearing 0: 00
+Counter 1: 0
+Tearing 1: 00
+Counter 2: 0
+Tearing 2: 00
+Pages total: 45
+Pages read: 45
+Page 0: 04 6E 5A B8
+Page 1: 8A AA 4A 81
+Page 2: EB 48 00 00
+Page 3: E1 11 12 00
+Page 4: 03 08 D1 01
+Page 5: 04 55 05 31
+Page 6: 31 37 FE 01
+Page 7: 32 55 04 6A
+Page 8: 6F 6E 6E 79
+Page 9: 62 61 6E 61
+Page 10: 6E 61 2E 67
+Page 11: 69 74 68 75
+Page 12: 62 2E 69 6F
+Page 13: 2F 73 61 66
+Page 14: 61 72 69 2D
+Page 15: 69 65 2D 72
+Page 16: 65 61 70 65
+Page 17: 72 2E 67 69
+Page 18: 74 68 75 62
+Page 19: 2E 69 6F 2F
+Page 20: 51 01 30 55
+Page 21: 04 6A 6F 6E
+Page 22: 6E 79 62 61
+Page 23: 6E 61 6E 61
+Page 24: 2E 67 69 74
+Page 25: 68 75 62 2E
+Page 26: 69 6F 2F 48
+Page 27: 54 4D 4C 2D
+Page 28: 46 6F 72 6B
+Page 29: 2D 42 6F 6D
+Page 30: 62 2E 67 69
+Page 31: 74 68 75 62
+Page 32: 2E 69 6F 2F
+Page 33: FE 00 00 00
+Page 34: 00 00 00 00
+Page 35: 00 00 00 00
+Page 36: 00 00 00 00
+Page 37: 00 00 00 00
+Page 38: 00 00 00 00
+Page 39: 00 00 00 00
+Page 40: 00 00 00 BD
+Page 41: 04 00 00 FF
+Page 42: 00 05 00 00
+Page 43: FF FF FF FF
+Page 44: 00 00 00 00
+Failed authentication attempts: 0
