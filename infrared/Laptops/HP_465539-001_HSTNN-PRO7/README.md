@@ -8,7 +8,7 @@
 
 </BR>
 
-Remote control for HP DV3 SERIES laptops (but could also be compatible with other HP models)
+Remote control for HP PAVILION DV3 SERIES laptops (but could also be compatible with other HP models)
 
 </BR>
 
