@@ -13,10 +13,10 @@ Compatible with various models of Samsung TVs.
 
 </BR>
 
-In my case it was for the TV in the picture below:
+In my case it was for the TV in the picture below (UE46H5303AK):
 
 </BR>
 
 <p>
-  <img src="" width="350">
+  <img src="https://raw.githubusercontent.com/JonnyBanana/Bananas_Flipper/main/infrared/IMG/UE46H5303AK.jpg" width="350">
 </p>
