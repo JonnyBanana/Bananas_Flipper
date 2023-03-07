@@ -3,7 +3,7 @@
 </BR>
 
 <p>
-  <img src="https://raw.githubusercontent.com/JonnyBanana/Bananas_Flipper/main/infrared/IMG/IRTV.gif" width="350">
+  <img src="https://raw.githubusercontent.com/JonnyBanana/Bananas_Flipper/main/infrared/IMG/IRTV.gif" width="250">
 </p>
 
 </BR>
