@@ -1,4 +1,4 @@
-<h1>Tv</h1>
+<h1>SAMSUNG_BN59_01178B</h1>
 
 </BR>
 
@@ -8,6 +8,8 @@
 
 </BR>
 
-Here you will find my captures of remote controls for tv's, complete with photos, description, and with all the buttons stored correctly
+Capture of remote control SAMSUNG BN59 01178B</BR>
+Compatible with various models of Samsung TVs</BR>
+In my case it was for the TV in the picture below:
 
 </BR>
