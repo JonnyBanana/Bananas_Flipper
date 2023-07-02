@@ -1,5 +1,6 @@
 Filetype: IR signals file
 Version: 1
+FROM https://github.com/JonnyBanana/Bananas_Flipper
 # 
 name: POWER_TV
 type: parsed
