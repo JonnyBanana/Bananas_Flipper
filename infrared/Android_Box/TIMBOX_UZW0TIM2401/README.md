@@ -13,5 +13,5 @@ Capture of remote control for TIMBOX_UZW0TIM2401
 </BR>
 
 <p>
-  <img src="https://raw.githubusercontent.com/JonnyBanana/Bananas_Flipper/main/infrared/IMG/tbox2.jpg)https://raw.githubusercontent.com/JonnyBanana/Bananas_Flipper/main/infrared/IMG/tbox2.jpg" width="350">
+  <img src="https://raw.githubusercontent.com/JonnyBanana/Bananas_Flipper/main/infrared/IMG/tbox2.jpg" width="350">
 </p>
