@@ -1,0 +1,39 @@
+Filetype: IR signals file
+Version: 1
+https://github.com/JonnyBanana/Bananas_Flipper
+# 
+name: MENU
+type: parsed
+protocol: NECext
+address: EE 87 00 00
+command: 02 5C 00 00
+# 
+name: +
+type: parsed
+protocol: NECext
+address: EE 87 00 00
+command: 0B 5C 00 00
+# 
+name: -
+type: parsed
+protocol: NECext
+address: EE 87 00 00
+command: 0D 5C 00 00
+# 
+name: REWIND
+type: parsed
+protocol: NECext
+address: EE 87 00 00
+command: 08 5C 00 00
+# 
+name: FAST_FORWARD
+type: parsed
+protocol: NECext
+address: EE 87 00 00
+command: 07 5C 00 00
+# 
+name: PLAY_PAUSE
+type: parsed
+protocol: NECext
+address: EE 87 00 00
+command: 04 5C 00 00
