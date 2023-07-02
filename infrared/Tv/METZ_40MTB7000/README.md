@@ -3,7 +3,7 @@
 </BR>
 
 <p>
-  <img src="https://raw.githubusercontent.com/JonnyBanana/Bananas_Flipper/main/infrared/IMG/METZ_40MTB7000.jpg)" width="350">
+  <img src="https://raw.githubusercontent.com/JonnyBanana/Bananas_Flipper/main/infrared/IMG/METZ_40MTB7000.jpg" width="350">
 </p>
 
 </BR>
