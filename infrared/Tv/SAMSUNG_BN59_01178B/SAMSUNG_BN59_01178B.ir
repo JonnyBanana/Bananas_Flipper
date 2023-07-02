@@ -121,7 +121,7 @@ protocol: Samsung32
 address: 07 00 00 00
 command: 12 00 00 00
 # 
-name: PROGRAM+
+name: PROGRAM-
 type: parsed
 protocol: Samsung32
 address: 07 00 00 00
