@@ -67,25 +67,25 @@ protocol: NECext
 address: 20 BF 00 00
 command: 4A B5 00 00
 # 
-name: CH_PLUS
+name: CH+
 type: parsed
 protocol: NECext
 address: 20 BF 00 00
 command: 47 B8 00 00
 # 
-name: CH_MINUS
+name: CH-
 type: parsed
 protocol: NECext
 address: 20 BF 00 00
 command: 4D B2 00 00
 # 
-name: VOL_MINUS
+name: VOL-
 type: parsed
 protocol: NECext
 address: 20 BF 00 00
 command: 49 B6 00 00
 # 
-name: VOL_PLUS
+name: VOL+
 type: parsed
 protocol: NECext
 address: 20 BF 00 00
