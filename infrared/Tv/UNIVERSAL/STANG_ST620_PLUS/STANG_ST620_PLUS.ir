@@ -1,0 +1,188 @@
+Filetype: IR signals file
+Version: 1
+# 
+name: POWER
+type: parsed
+protocol: NEC
+address: 40 00 00 00
+command: 12 00 00 00
+# 
+name: PNS
+type: parsed
+protocol: RC5
+address: 00 00 00 00
+command: 2B 00 00 00
+# 
+name: TV_AV
+type: parsed
+protocol: NEC
+address: 40 00 00 00
+command: 14 00 00 00
+# 
+name: 1_2
+type: parsed
+protocol: NEC
+address: 04 00 00 00
+command: 4D 00 00 00
+# 
+name: 1_SHARP
+type: parsed
+protocol: NEC
+address: 40 00 00 00
+command: 01 00 00 00
+# 
+name: 2_TOSHIBA
+type: parsed
+protocol: NEC
+address: 40 00 00 00
+command: 02 00 00 00
+# 
+name: 3_HITACHY
+type: parsed
+protocol: NEC
+address: 40 00 00 00
+command: 03 00 00 00
+# 
+name: 4_SAMSUNG
+type: parsed
+protocol: NEC
+address: 40 00 00 00
+command: 04 00 00 00
+# 
+name: 5_LG
+type: parsed
+protocol: NEC
+address: 40 00 00 00
+command: 05 00 00 00
+# 
+name: 6_NEC
+type: parsed
+protocol: NEC
+address: 40 00 00 00
+command: 06 00 00 00
+# 
+name: 7_MITSUBISHI
+type: parsed
+protocol: NEC
+address: 40 00 00 00
+command: 07 00 00 00
+# 
+name: 8_DAEWOO
+type: parsed
+protocol: NEC
+address: 40 00 00 00
+command: 08 00 00 00
+# 
+name: 9_NIKON
+type: parsed
+protocol: NEC
+address: 40 00 00 00
+command: 09 00 00 00
+# 
+name: 0_SONY
+type: parsed
+protocol: NEC
+address: 40 00 00 00
+command: 00 00 00 00
+# 
+name: _PANASONIC
+type: parsed
+protocol: NEC
+address: 40 00 00 00
+command: 0A 00 00 00
+# 
+name: BACK_SANYO
+type: parsed
+protocol: NEC
+address: 04 00 00 00
+command: 1A 00 00 00
+# 
+name: SLEEP
+type: parsed
+protocol: NEC
+address: 40 00 00 00
+command: 13 00 00 00
+# 
+name: MUTE
+type: parsed
+protocol: NEC
+address: 40 00 00 00
+command: 10 00 00 00
+# 
+name: CH_UP
+type: parsed
+protocol: NEC
+address: 40 00 00 00
+command: 1B 00 00 00
+# 
+name: CH_DOWN
+type: parsed
+protocol: NEC
+address: 40 00 00 00
+command: 1F 00 00 00
+# 
+name: VOL_DOWN
+type: parsed
+protocol: NEC
+address: 40 00 00 00
+command: 1E 00 00 00
+# 
+name: VOLUME_DOWN
+type: parsed
+protocol: NEC
+address: 40 00 00 00
+command: 1A 00 00 00
+# 
+name: DISP_SX
+type: parsed
+protocol: NEC
+address: 04 00 00 00
+command: 39 00 00 00
+# 
+name: DISP_DX
+type: parsed
+protocol: RC5
+address: 00 00 00 00
+command: 0F 00 00 00
+# 
+name: PIP
+type: parsed
+protocol: NEC
+address: 40 00 00 00
+command: 1C 00 00 00
+# 
+name: SOUND
+type: parsed
+protocol: NEC
+address: 40 00 00 00
+command: 13 00 00 00
+# 
+name: MENU
+type: parsed
+protocol: NEC
+address: 40 00 00 00
+command: 0E 00 00 00
+# 
+name: UP_ARROW
+type: parsed
+protocol: NEC
+address: 40 00 00 00
+command: 1B 00 00 00
+# 
+name: DOWN_ARROW
+type: parsed
+protocol: NEC
+address: 40 00 00 00
+command: 1F 00 00 00
+# 
+name: LEFT_ARROW
+type: parsed
+protocol: NEC
+address: 40 00 00 00
+command: 1E 00 00 00
+# 
+name: RIGHT_ARROW
+type: parsed
+protocol: NEC
+address: 40 00 00 00
+command: 1A 00 00 00
