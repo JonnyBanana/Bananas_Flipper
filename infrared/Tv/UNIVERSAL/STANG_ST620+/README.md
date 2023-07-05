@@ -5,7 +5,7 @@
 </BR>
 
 <p>
-  <img src="https://raw.githubusercontent.com/JonnyBanana/Bananas_Flipper/main/infrared/IMG/STANG-620%2B.jpg)" width="350">
+  <img src="https://raw.githubusercontent.com/JonnyBanana/Bananas_Flipper/main/infrared/IMG/STANG-620%2B.jpg" width="350">
 </p>
 
 </BR>
