@@ -1,7 +1,6 @@
 Filetype: IR signals file
 Version: 1
-# 
-# More Info: https://github.com/JonnyBanana/Bananas_Flipper/tree/main/infrared/Led_Strips/CHINESE_LED_STRIP_3M-5V-1A 
+More Info: https://github.com/JonnyBanana/Bananas_Flipper/tree/main/infrared/Led_Strips/CHINESE_LED_STRIP_3M-5V-1A 
 #
 name: ON
 type: parsed
