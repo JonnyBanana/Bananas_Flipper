@@ -1,0 +1,266 @@
+Filetype: IR signals file
+Version: 1
+# 
+name: POWER
+type: parsed
+protocol: NECext
+address: 00 BF 00 00
+command: 0D F2 00 00
+# 
+name: INPUT
+type: parsed
+protocol: NECext
+address: 00 BF 00 00
+command: 12 ED 00 00
+# 
+name: 1
+type: parsed
+protocol: NECext
+address: 00 BF 00 00
+command: 01 FE 00 00
+# 
+name: 2
+type: parsed
+protocol: NECext
+address: 00 BF 00 00
+command: 02 FD 00 00
+# 
+name: 3
+type: parsed
+protocol: NECext
+address: 00 BF 00 00
+command: 20 DF 00 00
+# 
+name: 4
+type: parsed
+protocol: NECext
+address: 00 BF 00 00
+command: 04 FB 00 00
+# 
+name: 5
+type: parsed
+protocol: NECext
+address: 00 BF 00 00
+command: 05 FA 00 00
+# 
+name: 6
+type: parsed
+protocol: NECext
+address: 00 BF 00 00
+command: 20 DF 00 00
+# 
+name: 7
+type: parsed
+protocol: NECext
+address: 00 BF 00 00
+command: 07 F8 00 00
+# 
+name: 8
+type: parsed
+protocol: NECext
+address: 00 BF 00 00
+command: 20 DF 00 00
+# 
+name: 9
+type: parsed
+protocol: NECext
+address: 00 BF 00 00
+command: 20 DF 00 00
+# 
+name: 0
+type: parsed
+protocol: NECext
+address: 00 BF 00 00
+command: 00 FF 00 00
+# 
+name: EPG
+type: parsed
+protocol: NECext
+address: 00 BF 00 00
+command: 1D E2 00 00
+# 
+name: INFO
+type: parsed
+protocol: NECext
+address: 00 BF 00 00
+command: 0C F3 00 00
+# 
+name: RED_BAR
+type: parsed
+protocol: NECext
+address: 00 BF 00 00
+command: 52 AD 00 00
+# 
+name: GREEN_BAR
+type: parsed
+protocol: NECext
+address: 00 BF 00 00
+command: 53 AC 00 00
+# 
+name: YELLOW_BAR
+type: parsed
+protocol: NECext
+address: 00 BF 00 00
+command: 54 AB 00 00
+# 
+name: BLUE_BAR
+type: parsed
+protocol: NECext
+address: 00 BF 00 00
+command: 55 AA 00 00
+# 
+name: SETTINGS
+type: parsed
+protocol: NECext
+address: 00 BF 00 00
+command: 14 EB 00 00
+# 
+name: 6_SQUARE
+type: parsed
+protocol: NECext
+address: 00 BF 00 00
+command: 5F A0 00 00
+# 
+name: UP
+type: parsed
+protocol: NECext
+address: 00 BF 00 00
+command: 16 E9 00 00
+# 
+name: DOWN
+type: parsed
+protocol: NECext
+address: 00 BF 00 00
+command: 17 E8 00 00
+# 
+name: LEFT
+type: parsed
+protocol: NECext
+address: 00 BF 00 00
+command: 19 E6 00 00
+# 
+name: RIGHT
+type: parsed
+protocol: NECext
+address: 00 BF 00 00
+command: 18 E7 00 00
+# 
+name: OK
+type: parsed
+protocol: NECext
+address: 00 BF 00 00
+command: 15 EA 00 00
+# 
+name: BACK
+type: parsed
+protocol: NECext
+address: 00 BF 00 00
+command: 48 B7 00 00
+# 
+name: HOME
+type: parsed
+protocol: NECext
+address: 00 BF 00 00
+command: 20 DF 00 00
+# 
+name: EXIT
+type: parsed
+protocol: NECext
+address: 00 BF 00 00
+command: 5C A3 00 00
+# 
+name: VOL_P
+type: parsed
+protocol: NECext
+address: 00 BF 00 00
+command: 44 BB 00 00
+# 
+name: VOL_M
+type: parsed
+protocol: NECext
+address: 00 BF 00 00
+command: 43 BC 00 00
+# 
+name: CH_P
+type: parsed
+protocol: NECext
+address: 00 BF 00 00
+command: 4A B5 00 00
+# 
+name: CH_M
+type: parsed
+protocol: NECext
+address: 00 BF 00 00
+command: 4B B4 00 00
+# 
+name: CH_LIST
+type: parsed
+protocol: NECext
+address: 00 BF 00 00
+command: 21 DE 00 00
+# 
+name: MUTE
+type: parsed
+protocol: NECext
+address: 00 BF 00 00
+command: 0E F1 00 00
+# 
+name: PAUSE
+type: parsed
+protocol: NECext
+address: 00 BF 00 00
+command: A9 56 00 00
+# 
+name: PLAY
+type: parsed
+protocol: NECext
+address: 00 BF 00 00
+command: A8 57 00 00
+# 
+name: STOP
+type: parsed
+protocol: NECext
+address: 00 BF 00 00
+command: 5A A5 00 00
+# 
+name: REWIND
+type: parsed
+protocol: NECext
+address: 00 BF 00 00
+command: 58 A7 00 00
+# 
+name: FAST_FORWARD
+type: parsed
+protocol: NECext
+address: 00 BF 00 00
+command: 59 A6 00 00
+# 
+name: PVR
+type: parsed
+protocol: NECext
+address: 00 BF 00 00
+command: 5E A1 00 00
+# 
+name: NETFLIX
+type: parsed
+protocol: NECext
+address: 00 BF 00 00
+command: 47 B8 00 00
+# 
+name: YOUTUBE
+type: parsed
+protocol: NECext
+address: 00 BF 00 00
+command: AA 55 00 00
+# 
+name: SUBTITLE
+type: parsed
+protocol: NECext
+address: 00 BF 00 00
+command: 1F E0 00 00
+# 
+name: TXT
+type: parsed
+protocol: NECext
+address: 00 BF 00 00
+command: 45 BA 00 00
