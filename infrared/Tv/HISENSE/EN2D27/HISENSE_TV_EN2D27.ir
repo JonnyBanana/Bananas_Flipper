@@ -169,25 +169,25 @@ protocol: NECext
 address: 00 BF 00 00
 command: 5C A3 00 00
 # 
-name: VOL_P
+name: VOL+
 type: parsed
 protocol: NECext
 address: 00 BF 00 00
 command: 44 BB 00 00
 # 
-name: VOL_M
+name: VOL-
 type: parsed
 protocol: NECext
 address: 00 BF 00 00
 command: 43 BC 00 00
 # 
-name: CH_P
+name: CH+
 type: parsed
 protocol: NECext
 address: 00 BF 00 00
 command: 4A B5 00 00
 # 
-name: CH_M
+name: CH-
 type: parsed
 protocol: NECext
 address: 00 BF 00 00
