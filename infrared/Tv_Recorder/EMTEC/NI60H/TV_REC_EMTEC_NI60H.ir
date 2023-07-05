@@ -1,0 +1,230 @@
+Filetype: IR signals file
+Version: 1
+# 
+name: POWER
+type: parsed
+protocol: NEC
+address: 01 00 00 00
+command: 01 00 00 00
+# 
+name: MUTE
+type: parsed
+protocol: NEC
+address: 01 00 00 00
+command: 02 00 00 00
+# 
+name: TV_R
+type: parsed
+protocol: NEC
+address: 01 00 00 00
+command: 09 00 00 00
+# 
+name: INFO
+type: parsed
+protocol: NEC
+address: 01 00 00 00
+command: 0C 00 00 00
+# 
+name: REC
+type: parsed
+protocol: NEC
+address: 01 00 00 00
+command: 16 00 00 00
+# 
+name: MENU
+type: parsed
+protocol: NEC
+address: 01 00 00 00
+command: 0A 00 00 00
+# 
+name: BACK
+type: parsed
+protocol: NEC
+address: 01 00 00 00
+command: 03 00 00 00
+# 
+name: CH+
+type: parsed
+protocol: NEC
+address: 01 00 00 00
+command: 10 00 00 00
+# 
+name: CH-
+type: parsed
+protocol: NEC
+address: 01 00 00 00
+command: 11 00 00 00
+# 
+name: VOL-
+type: parsed
+protocol: NEC
+address: 01 00 00 00
+command: 13 00 00 00
+# 
+name: VOL+
+type: parsed
+protocol: NEC
+address: 01 00 00 00
+command: 12 00 00 00
+# 
+name: OK
+type: parsed
+protocol: NEC
+address: 01 00 00 00
+command: 0F 00 00 00
+# 
+name: FAV
+type: raw
+frequency: 38000
+duty_cycle: 0.330000
+data: 9217 4399 613 1650 614 517 615 517 615 516 616 516 616 516 616 516 615 517 640 492 639 1625 639 1626 638 1627 637 1628 636 1628 636 1628 636 1629 635 1629 635 496 636 1628 636 1629 635 497 635 497 635 497 635 497 635 497 635 1630 634 498 634 521 611 1654 610 1654 610 1654 610 1654 610 40124 9136 2190 609
+# 
+name: EXIT
+type: parsed
+protocol: NEC
+address: 01 00 00 00
+command: 0B 00 00 00
+# 
+name: 1
+type: parsed
+protocol: NEC
+address: 01 00 00 00
+command: 41 00 00 00
+# 
+name: 2
+type: parsed
+protocol: NEC
+address: 01 00 00 00
+command: 42 00 00 00
+# 
+name: 3
+type: parsed
+protocol: NEC
+address: 01 00 00 00
+command: 43 00 00 00
+# 
+name: 4
+type: parsed
+protocol: NEC
+address: 01 00 00 00
+command: 44 00 00 00
+# 
+name: 5
+type: parsed
+protocol: NEC
+address: 01 00 00 00
+command: 45 00 00 00
+# 
+name: 6
+type: parsed
+protocol: NEC
+address: 01 00 00 00
+command: 46 00 00 00
+# 
+name: 7
+type: parsed
+protocol: NEC
+address: 01 00 00 00
+command: 47 00 00 00
+# 
+name: 8
+type: parsed
+protocol: NEC
+address: 01 00 00 00
+command: 48 00 00 00
+# 
+name: 9
+type: parsed
+protocol: NEC
+address: 01 00 00 00
+command: 49 00 00 00
+# 
+name: 0
+type: parsed
+protocol: NEC
+address: 01 00 00 00
+command: 40 00 00 00
+# 
+name: PGUP
+type: parsed
+protocol: NEC
+address: 01 00 00 00
+command: 53 00 00 00
+# 
+name: PGDW
+type: parsed
+protocol: NEC
+address: 01 00 00 00
+command: 4A 00 00 00
+# 
+name: PLAY
+type: parsed
+protocol: NEC
+address: 01 00 00 00
+command: 14 00 00 00
+# 
+name: STOP
+type: parsed
+protocol: NEC
+address: 01 00 00 00
+command: 17 00 00 00
+# 
+name: REWIND
+type: parsed
+protocol: NEC
+address: 01 00 00 00
+command: 18 00 00 00
+# 
+name: FAST_FORWARD
+type: parsed
+protocol: NEC
+address: 01 00 00 00
+command: 52 00 00 00
+# 
+name: RES
+type: parsed
+protocol: NEC
+address: 01 00 00 00
+command: 04 00 00 00
+# 
+name: ASPECT
+type: parsed
+protocol: NEC
+address: 01 00 00 00
+command: 50 00 00 00
+# 
+name: SUB
+type: parsed
+protocol: NEC
+address: 01 00 00 00
+command: 51 00 00 00
+# 
+name: AUDIO
+type: parsed
+protocol: NEC
+address: 01 00 00 00
+command: 52 00 00 00
+# 
+name: TIME_SHIFT
+type: parsed
+protocol: NEC
+address: 01 00 00 00
+command: 1C 00 00 00
+# 
+name: EPG
+type: parsed
+protocol: NEC
+address: 01 00 00 00
+command: 1D 00 00 00
+# 
+name: TEXT
+type: parsed
+protocol: NEC
+address: 01 00 00 00
+command: 1E 00 00 00
+# 
+name: TIMER
+type: parsed
+protocol: NEC
+address: 01 00 00 00
+command: 1F 00 00 00
