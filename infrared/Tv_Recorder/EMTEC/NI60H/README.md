@@ -1,4 +1,4 @@
-<h1>METZ_40MTB7000</h1>
+<h1>EMTEC NI60H</h1>
 
 </BR>
 
