@@ -1,7 +1,6 @@
 Filetype: IR signals file
 Version: 1
-# 
-# More info: https://github.com/JonnyBanana/Bananas_Flipper/tree/main/infrared/Android_Box/TIMBOX_UZW0TIM2401
+More info: https://github.com/JonnyBanana/Bananas_Flipper/tree/main/infrared/Android_Box/TIMBOX_UZW0TIM2401
 #
 name: POWER
 type: parsed
