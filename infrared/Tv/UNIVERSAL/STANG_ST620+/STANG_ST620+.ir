@@ -1,5 +1,6 @@
 Filetype: IR signals file
 Version: 1
+More info: https://github.com/JonnyBanana/Bananas_Flipper/
 # 
 name: POWER
 type: parsed
