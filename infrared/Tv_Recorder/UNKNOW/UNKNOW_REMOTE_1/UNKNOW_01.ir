@@ -1,0 +1,182 @@
+Filetype: IR signals file
+Version: 1
+# 
+name: BLUE_UNKNOW
+type: parsed
+protocol: NEC
+address: 00 00 00 00
+command: 84 00 00 00
+# 
+name: SEARCH
+type: parsed
+protocol: NEC
+address: 00 00 00 00
+command: 88 00 00 00
+# 
+name: 1
+type: parsed
+protocol: NEC
+address: 00 00 00 00
+command: 87 00 00 00
+# 
+name: 2
+type: parsed
+protocol: NEC
+address: 00 00 00 00
+command: 86 00 00 00
+# 
+name: 3
+type: parsed
+protocol: NEC
+address: 00 00 00 00
+command: 85 00 00 00
+# 
+name: 4
+type: parsed
+protocol: NEC
+address: 00 00 00 00
+command: 8B 00 00 00
+# 
+name: 5
+type: parsed
+protocol: NEC
+address: 00 00 00 00
+command: 8A 00 00 00
+# 
+name: 6
+type: parsed
+protocol: NEC
+address: 00 00 00 00
+command: 89 00 00 00
+# 
+name: 7
+type: parsed
+protocol: NEC
+address: 00 00 00 00
+command: 8F 00 00 00
+# 
+name: 8
+type: parsed
+protocol: NEC
+address: 00 00 00 00
+command: 8E 00 00 00
+# 
+name: 9
+type: parsed
+protocol: NEC
+address: 00 00 00 00
+command: 8D 00 00 00
+# 
+name: 0
+type: parsed
+protocol: NEC
+address: 00 00 00 00
+command: 92 00 00 00
+# 
+name: ESC
+type: parsed
+protocol: NEC
+address: 00 00 00 00
+command: 96 00 00 00
+# 
+name: LINES
+type: parsed
+protocol: NEC
+address: 00 00 00 00
+command: 94 00 00 00
+# 
+name: MENU
+type: parsed
+protocol: NEC
+address: 00 00 00 00
+command: 9E 00 00 00
+# 
+name: UP_ARROW
+type: parsed
+protocol: NEC
+address: 00 00 00 00
+command: 95 00 00 00
+# 
+name: DOWN_ARROW
+type: parsed
+protocol: NEC
+address: 00 00 00 00
+command: 9A 00 00 00
+# 
+name: LEFT_ARROW
+type: parsed
+protocol: NEC
+address: 00 00 00 00
+command: 9B 00 00 00
+# 
+name: RIGHT_ARROW
+type: parsed
+protocol: NEC
+address: 00 00 00 00
+command: 99 00 00 00
+# 
+name: UNKNOW_SX
+type: parsed
+protocol: NEC
+address: 00 00 00 00
+command: 80 00 00 00
+# 
+name: UNKNOW_DX
+type: parsed
+protocol: NEC
+address: 00 00 00 00
+command: 99 00 00 00
+# 
+name: ADD
+type: parsed
+protocol: NEC
+address: 00 00 00 00
+command: 97 00 00 00
+# 
+name: FN
+type: parsed
+protocol: NEC
+address: 00 00 00 00
+command: 91 00 00 00
+# 
+name: PLAY
+type: parsed
+protocol: NEC
+address: 00 00 00 00
+command: 8C 00 00 00
+# 
+name: FAST_FORWARD
+type: parsed
+protocol: NEC
+address: 00 00 00 00
+command: 9C 00 00 00
+# 
+name: STOP
+type: parsed
+protocol: NEC
+address: 00 00 00 00
+command: 93 00 00 00
+# 
+name: FORWARD_02
+type: parsed
+protocol: NEC
+address: 00 00 00 00
+command: 90 00 00 00
+# 
+name: PLAY_02
+type: parsed
+protocol: NEC
+address: 00 00 00 00
+command: 83 00 00 00
+# 
+name: FORWARD_X2
+type: parsed
+protocol: NEC
+address: 00 00 00 00
+command: 98 00 00 00
+# 
+name: PLAY_X2
+type: parsed
+protocol: NEC
+address: 00 00 00 00
+command: 82 00 00 00
