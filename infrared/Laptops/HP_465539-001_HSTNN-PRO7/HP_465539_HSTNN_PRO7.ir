@@ -1,7 +1,6 @@
 Filetype: IR signals file
 Version: 1
-#
-# More Info: https://github.com/JonnyBanana/Bananas_Flipper/tree/main/infrared/Laptops/HP_465539-001_HSTNN-PRO7
+More Info: https://github.com/JonnyBanana/Bananas_Flipper/tree/main/infrared/Laptops/HP_465539-001_HSTNN-PRO7
 #
 name: POWER
 type: raw
