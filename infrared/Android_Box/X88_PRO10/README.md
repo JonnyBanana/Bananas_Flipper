@@ -37,4 +37,8 @@ Capture of remote control FOR X88_PRO10
 </BR>
 
 
+<p>
+  <img src="https://raw.githubusercontent.com/JonnyBanana/Bananas_Flipper/main/infrared/IMG/X88_PRO10-ver.jpg" width="350">
+</p>
 
+</BR>
