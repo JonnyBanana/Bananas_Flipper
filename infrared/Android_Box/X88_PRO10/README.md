@@ -1,4 +1,4 @@
-<h1>METZ_40MTB7000</h1>
+<h1>X88_PRO10</h1>
 
 </BR>
 
@@ -8,7 +8,7 @@
 
 </BR>
 
-Capture of remote control FOR METZ_40MTB7000
+Capture of remote control FOR X88_PRO10
 
 </BR>
 
