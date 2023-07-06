@@ -7,7 +7,7 @@ protocol: NECext
 address: 00 DF 00 00
 command: 1C E3 00 00
 # 
-name: POWER_BLACK
+name: POWER_DX
 type: parsed
 protocol: NECext
 address: 00 DF 00 00
@@ -25,13 +25,13 @@ protocol: NECext
 address: 00 DF 00 00
 command: F3 0C 00 00
 # 
-name: VOLM_UP
+name: VOL-UP
 type: parsed
 protocol: NECext
 address: 00 DF 00 00
 command: F4 0B 00 00
 # 
-name: VOLP_UP
+name: VOLP+UP
 type: parsed
 protocol: NECext
 address: 00 DF 00 00
@@ -61,13 +61,13 @@ protocol: NECext
 address: 00 DF 00 00
 command: 5F A0 00 00
 # 
-name: VOLP
+name: VOL+
 type: parsed
 protocol: NECext
 address: 00 DF 00 00
 command: 5D A2 00 00
 # 
-name: VOLM
+name: VOL-
 type: parsed
 protocol: NECext
 address: 00 DF 00 00
